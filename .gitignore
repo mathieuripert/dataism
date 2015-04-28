@@ -1,0 +1,9 @@
+*.pyc
+*.ipynb
+data/*
+*.log
+*.json
+*.swp
+venv
+*.csv
+*.txt
